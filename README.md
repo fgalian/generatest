@@ -11,7 +11,7 @@ varios scripts en Python.
 - **Autor:** Francisco Javier Sánchez Galián  
 - **Lenguaje principal:** Python 3  
 - **Base de datos:** SQLite  
-- **Última actualización:** Noviembre 2025  
+- **Última actualización:** Marzo 2026
 - **Estado:** Activo / En mejora continua  
 - **Licencia:** Uso libre personal  
 
@@ -38,6 +38,13 @@ varios scripts en Python.
 ## 🧩 Importar preguntas desde XML
 
     python3 import.py
+
+## 📄 Formato del fichero XML
+
+Si quieres crear o editar manualmente el fichero XML para importar preguntas,
+consulta la documentación detallada aquí:
+
+- [Ver formato del fichero XML](./FORMATOXML.md)
 
 ## 🎯 Estudiar preguntas sueltas
 
